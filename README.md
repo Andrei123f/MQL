@@ -16,7 +16,7 @@
   <p align="center">
     Imperative SQL language for CSV files made with a functional programming language, <img src="https://assets.website-files.com/62126aa407695905a4f073d0/621bd9bc08086c73487dce88_haskell-original.svg" alt="Vue logo" width=20 height=20>Haskell.
     <br />
-    <a href="https://replit.com/@Andrei123f/MQL-1#examples.mql/">View Demo</a> <br />
+    <a href="https://replit.com/@Andrei123f/MQL#README.md/">View Demo</a> <br />
     <a href="https://github.com/Andrei123f/MQL/issues">Report Bug</a><br />
     <a href="https://github.com/Andrei123f/MQL/issues">Request Feature</a> <br />
     **For the demo please follow the instructions from the README from there.**
