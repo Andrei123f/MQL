@@ -7,8 +7,6 @@ The evaluator will check:
 
 @authors:
  @Andrei123f(ap4u19@soton.ac.uk/andrei.popabd@gmail.com)
- @cat1g19 
- @Carloscb407
 -}
 {-# LANGUAGE ScopedTypeVariables #-}
 
